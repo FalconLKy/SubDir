@@ -121,12 +121,6 @@ python3 subdir.py [options]
 
 ---
 
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check [issues](https://github.com/FalconLKy/subdir/issues) or open a pull request.
-
----
-
 ## 📜 License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file.
