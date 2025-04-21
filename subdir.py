@@ -16,14 +16,16 @@ colorama_init(autoreset=True)
 
 # Banner
 SUBDIR_BANNER = f"""
-{Fore.CYAN}  ____        _     _ _           
- / ___| _   _| |__ (_) |_ _   _   {Fore.YELLOW}SUBDIR
- \___ \| | | | '_ \| | __| | | |  {Fore.GREEN}by F4lc0n
-  ___) | |_| | |_) | | |_| |_| |  {Fore.MAGENTA}https://github.com/FalconLKy
- |____/ \__,_|_.__/|_|\__|\__, |  
-                         |___/   {Style.RESET_ALL}
+{Fore.CYAN}
+   _____       _     _____  _      
+  / ____|     | |   |  __ \(_)     
+ | (___  _   _| |__ | |  | |_ _ __ {Fore.YELLOW}SUBDIR
+  \___ \| | | | '_ \| |  | | | '__|{Fore.GREEN}by F4lc0n
+  ____) | |_| | |_) | |__| | | |   {Fore.MAGENTA}https://github.com/FalconLKy
+ |_____/ \__,_|_.__/|_____/|_|_|   
+                                   {Style.RESET_ALL}
 """
-
+                                   
 def banner():
     print(SUBDIR_BANNER)
 
